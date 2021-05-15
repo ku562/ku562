@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...Git Hub
 - 💞️ I’m looking to collaborate on ..Coding.
 - 📫 How to reach me .Slack..
+- I am still learning
 
 <!---
 ku562/ku562 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
